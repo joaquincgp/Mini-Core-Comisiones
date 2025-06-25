@@ -5,7 +5,7 @@ from backend.app.models.venta import Venta
 from backend.app.models.comision import ReglaComision
 
 
-# Simulando base de datos en memoria
+# Simulando base de datos en memorias
 class DatabaseManager:
     def __init__(self):
         self._usuarios = [
