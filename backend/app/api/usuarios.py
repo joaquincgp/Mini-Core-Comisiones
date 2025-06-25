@@ -1,8 +1,8 @@
 from fastapi import APIRouter, HTTPException
 from typing import List
-from app.models.usuario import Usuario
-from app.schemas.responses import ApiResponse
-from app.core.database import db
+from backend.app.models.usuario import Usuario
+from backend.app.schemas.responses import ApiResponse
+from backend.app.core.database import db
 
 router = APIRouter()
 
