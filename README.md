@@ -3,6 +3,8 @@
 MiniCore es una aplicación web construida con FastAPI (backend) y React + Material UI (frontend), que permite calcular y visualizar automáticamente comisiones por ventas para cada vendedor dentro de un rango de fechas. 
 Está diseñada con arquitectura MVC desacoplada, permite integrar fácilmente nuevas reglas de comisión, y puede desplegarse automáticamente en [Render.com](https://render.com) como Web Service (backend) y Static Site (frontend).
 
+Enlace al video explicativo: https://www.loom.com/share/5e7dfe6b9c3d42619c3baaad7ee5cec7?sid=3e60aaf1-dbad-4805-9a5f-dd9ddbd92ae7
+
 ## Arquitectura del sistema
 ### Backend (Python - FastAPI)
 
